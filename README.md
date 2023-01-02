@@ -1,4 +1,4 @@
-# Higher-level programming - Python
+# ALX Higher-level programming - Python
 
 This repository contains programs written for the higher-level programming
 track at ALX Africa. In these projects, which began occurring in month
@@ -30,7 +30,7 @@ scripting. The specific list of projects contained follows:
 
 ## Author :
 
-* **Tolulope Fakunle** <[Tolulope05](https://github.com/Tolulope05)>
+* **Precious Iriaevho** <[prevho](https://github.com/prevho)>
 
 ## Acknowledgements :pray:
 
